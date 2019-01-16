@@ -1,3 +1,3 @@
 # Color-Quantizer
-![Quantized] (Quantized.jpg)
-![Original] (ankara.jpg)
+![Quantized] (./Quantized.jpg)
+![Original] (./ankara.jpg)
